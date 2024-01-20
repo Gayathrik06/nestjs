@@ -22,3 +22,9 @@ Install a type orm module
 To run a nest project
 ----------------------
 npm run start
+
+
+To run a nightwatch project
+----------------------------
+npx nightwatch
+
